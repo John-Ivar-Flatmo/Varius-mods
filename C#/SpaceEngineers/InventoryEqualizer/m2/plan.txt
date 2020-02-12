@@ -1,0 +1,17 @@
+default JIF Script Code
+//user options
+transfer rate
+
+//user options end
+//get info
+var inventories
+var inventories avrage
+check inventries
+caclulate avrage inventory
+
+for inventory has less than avrage inventory
+transfer from more than avrage inventory
+update inventories with new values
+for end
+
+//get info end

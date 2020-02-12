@@ -1,0 +1,7 @@
+Information can be gathered from
+ILspy check the assembly of space engineers direcly
+source code, is posted on github is old as shit tho, and also terrible
+online from varius sources best source is below
+
+An actuall proper list of terminal properties, unlike the game or source or assembly can give    //NOTE Best Source
+https://github.com/malware-dev/MDK-SE/wiki/List-Of-Terminal-Properties-and-Actions
